@@ -21,7 +21,7 @@ I am a PhD in Bioengineering at Stanford University, focusing on voltage imaging
 ### Stanford University
 **PhD, Bioengineering** *(Jan 2019 - March 2025)*
 - Thesis: "Voltage imaging for revealing neuronal dynamics across scales"
-- Advisors: Prof. Michael Lin, Prof. Thomas Clandinin
+- Advisors: [Prof. Michael Lin](https://linlab.stanford.edu/), [Prof. Thomas Clandinin](https://flyvisionlab.weebly.com/)
 
 ### Tsinghua University
 **BS, Mechanics** 
