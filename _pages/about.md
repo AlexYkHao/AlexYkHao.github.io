@@ -37,16 +37,16 @@ I am a PhD in Bioengineering at Stanford University, focusing on voltage imaging
 
 ## Selected Publications
 
-1. A fast and responsive voltage indicator with enhanced sensitivity for unitary synaptic events.
+1. [A fast and responsive voltage indicator with enhanced sensitivity for unitary synaptic events.](https://www.cell.com/neuron/fulltext/S0896-6273(24)00643-3)
 
-[Hao, Yukun A], Sungmoo Lee, Richard H Roth, Silvia Natale, Laura Gomez, Jiannis Taxidis,
-Philipp S O’Neill, Vincent Villette, Jonathan Bradley, Zeguan Wang, et al.  [Neuron], 112(22):3680–3696,
+**Hao, Yukun A**, Sungmoo Lee, Richard H Roth, Silvia Natale, Laura Gomez, Jiannis Taxidis,
+Philipp S O’Neill, Vincent Villette, Jonathan Bradley, Zeguan Wang, et al.  **Neuron**, 112(22):3680–3696,
 2024
 
 
 ## Selected Honors & Awards
 
-- [Bio-X Bowes Fellow], Stanford University 2020-2023
+- **Bio-X Bowes Fellow**, Stanford University 2020-2023
 
 ## Ad-hoc Projects
 
