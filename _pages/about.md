@@ -32,4 +32,6 @@ From 2014 to 2018, I got my Bachelor's degree in Mechanics from Tsinghua Univers
 ## Ad-hoc 
 - Co-organizer of [MBCT seminar series](https://neuroscience.stanford.edu/programs/community-building/seminar-series-wu-tsai-neuro/mind-brain-computation-and-technology-mbct-seminar-series) from 2022 to 2023.
 
-- [Litsurf](https://github.com/AlexYkHao/litsurf_backend)is a web app that finds the most relevant content from a list of content sources for a user based on their profiles.
+- Designed [Litsurf](https://github.com/AlexYkHao/litsurf_backend), a web app that finds the most relevant content from a list of content sources for a user based on their profiles, allowing researchers to discover relevant publications they might otherwise miss using traditional keyword searches. Feel free to use it in my github repository.
+  
+
