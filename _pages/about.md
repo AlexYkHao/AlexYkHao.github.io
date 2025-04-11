@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# About me
-
 **PhD in Biroengineering**
 
 I am a PhD in Bioengineering at Stanford University,co-advised by [Prof. Michael Lin](https://linlab.stanford.edu/) and [Prof. Thomas Clandinin](https://flyvisionlab.weebly.com/), focusing on developing new methods for revealing neuronal dynamics across multiple scales, bridging the gap between cellular activity and broader neural circuits. I'm also part of the [Interdisciplinary Initiatives Program](https://biox.stanford.edu/research/seed-grants/interdisciplinary-initiatives-program-seed-grant-decoding-dendritic-computation). 
