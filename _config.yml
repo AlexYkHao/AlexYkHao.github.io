@@ -28,6 +28,7 @@ author:
   bio              : "PhD in Bioengenieering
   
   BS in Mechanics"
+  
   location         : "Palo Alto"
   employer         : "Stanford University"
   uri              : # URL
@@ -37,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
