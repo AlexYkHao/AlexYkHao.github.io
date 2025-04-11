@@ -22,6 +22,20 @@ You can also find my articles on [Google Scholar](https://scholar.google.com/cit
  
     
 ### **Mechanics**
-- **[IEEE'19]**  Linear quadratic optimal control of time-invariant linear networks with selectable input matrix. [PDF](https://ieeexplore.ieee.org/document/8922734){: .btn}
+- **[TCYB'19]**  Linear quadratic optimal control of time-invariant linear networks with selectable input matrix. [PDF](https://ieeexplore.ieee.org/document/8922734){: .btn}
   + **Hao, Yukun**, Tianshu Wang, Guoqi Li, and Changyun Wen.
   + IEEE Transactions on Cybernetics, 51(9):4743–4754, 2019
+ 
+- **[Int.J.Solids Struct.'24]**  Wrinkling–dewrinkling transitions in stretched soft spherical shells. [PDF](https://ieeexplore.ieee.org/document/8922734){: .btn}
+  + **Hao, Yu-Kun**, Bo Li, Xi-Qiao Feng, and Huajian Gao
+  + International Journal of Solids and Structures, 294:112773, 2024
+ 
+- **[TCYB'22]**  Optimal control of temporal networks with variable input and node–source connection. [PDF](https://ieeexplore.ieee.org/document/9855441){: .btn}
+  + Jiawei Sun, **Hao, Yukun**, Jiangshuai Huang, Changyun Wen, and Guoqi Li.
+  + IEEE Transactions on Cybernetics, 54(2):999–1010, 2022
+ 
+
+### **Physics**
+- **[NATURE'20]**  Cell swelling, softening and invasion in a threedimensional breast cancer model. [PDF](https://www.nature.com/articles/s41567-019-0680-8){: .btn}
+  + Yu Long Han, Adrian F Pegoraro, Hui Li, Kaifu Li, Yuan Yuan, Guoqiang Xu, Zichen Gu, Jiawei Sun, **Hao, Yukun**, Satish Kumar Gupta, et al.
+  + Nature physics, 16(1):101–108, 2020
