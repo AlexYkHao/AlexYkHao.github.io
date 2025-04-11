@@ -7,47 +7,31 @@ redirect_from:
   - /about.html
 ---
 
+**PhD in Biroengineering**
 
-*PhD in Bioengineering*
-*BS in Mechanics*
+I am a PhD in Bioengineering at Stanford University,co-advised by [Prof. Michael Lin](https://linlab.stanford.edu/) and [Prof. Thomas Clandinin](https://flyvisionlab.weebly.com/), focusing on developing new methods for revealing neuronal dynamics across multiple scales, bridging the gap between cellular activity and broader neural circuits. I'm also part of the [Interdisciplinary Initiatives Program](https://biox.stanford.edu/research/seed-grants/interdisciplinary-initiatives-program-seed-grant-decoding-dendritic-computation). 
 
-## About Me
+**MS in Mechanics**
 
-I am a PhD in Bioengineering at Stanford University, focusing on voltage imaging techniques for neuroscience applications. My research aims to develop new methods for revealing neuronal dynamics across multiple scales, bridging the gap between cellular activity and broader neural circuits.
+From 2014 to 2018, I got my Bachelor's degree in Mechanics from Tsinghua University. This provided me with a solid foundation in mathematics and physics. I am eager for new challenges and embrace opportunities that will allow me to grow and excel in my field.
 
-## Education
-
-### Stanford University
-**PhD, Bioengineering** *(Jan 2019 - March 2025)*
-- Thesis: "Voltage imaging for revealing neuronal dynamics across scales"
-- Advisors: [Prof. Michael Lin](https://linlab.stanford.edu/), [Prof. Thomas Clandinin](https://flyvisionlab.weebly.com/)
-
-### Tsinghua University
-**BS, Mechanics** 
-- Thesis Advisors: Prof. Bo Li, Prof. Xi-Qiao Feng
-- GPA: 94.4/100 (Ranked 1st of 30)
-
-## Research Interests
-
-- Voltage imaging techniques
-- Neural circuit dynamics
-- Optical microscopy methods
-- Computational neuroscience
-
-## Selected Publications
-
-1. [A fast and responsive voltage indicator with enhanced sensitivity for unitary synaptic events.](https://www.cell.com/neuron/fulltext/S0896-6273(24)00643-3)
-
-**Hao, Yukun A**, Sungmoo Lee, Richard H Roth, Silvia Natale, Laura Gomez, Jiannis Taxidis,
-Philipp S O’Neill, Vincent Villette, Jonathan Bradley, Zeguan Wang, et al.  **Neuron**, 112(22):3680–3696,
-2024
+## Researchs
 
 
-## Selected Honors & Awards
 
-- **Bio-X Bowes Fellow**, Stanford University 2020-2023
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <div style="flex: 1; margin-right: 20px;">
+    <img src="/images/paper1.jpg" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
+  </div>
+  <div style="flex: 1.5;">
+    <p>
+      This research extend the applications of voltage imaging to the quantal response domain, including in human neurons, opening up the possibility of high-throughput, high-content characterization of neuronal dysfunction in disease.
+    </p>
+  </div>
+</div>
 
-## Ad-hoc Projects
+
+## Ad-hoc 
+- Co-organizer of [MBCT seminar series](https://neuroscience.stanford.edu/programs/community-building/seminar-series-wu-tsai-neuro/mind-brain-computation-and-technology-mbct-seminar-series) from 2022 to 2023.
 
 - [Litsurf](https://github.com/AlexYkHao/litsurf_backend)is a web app that finds the most relevant content from a list of content sources for a user based on their profiles.
-
