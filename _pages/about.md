@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Alex Hao's Homepage"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-# Dr.Yukun Hao
 *PhD in Bioengineering*
 *BS in Mechanics*
 
