@@ -19,7 +19,7 @@ From 2014 to 2018, I got my Bachelor's degree in Mechanics from Tsinghua Univers
 
 
 
-<div style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
     <img src="/images/paper1.jpg" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
   </div>
