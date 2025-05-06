@@ -19,7 +19,7 @@ From 2014 to 2018, I got my Bachelor's degree in mechanics and applied math from
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="/images/paper1.jpg" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
+    <img src="/images/Neuron_fig6.png" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
   </div>
   <div style="flex: 1.5;">
     <p>
@@ -32,7 +32,7 @@ From 2014 to 2018, I got my Bachelor's degree in mechanics and applied math from
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="/images/paper1.jpg" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
+    <img src="/images/Bifrost.png" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
   </div>
   <div style="flex: 1.5;">
     <p>
@@ -44,7 +44,7 @@ From 2014 to 2018, I got my Bachelor's degree in mechanics and applied math from
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="/images/paper1.jpg" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
+    <img src="/images/LQR.png" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
   </div>
   <div style="flex: 1.5;">
     <p>
@@ -56,7 +56,7 @@ From 2014 to 2018, I got my Bachelor's degree in mechanics and applied math from
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex: 1; margin-right: 20px;">
-    <img src="/images/paper1.jpg" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
+    <img src="/images/wrinkle_scaling.png" alt="Research Diagram" style="width: 100%; border: 1px solid #ddd; border-radius: 4px;" />
   </div>
   <div style="flex: 1.5;">
     <p>
